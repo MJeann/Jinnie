@@ -1,0 +1,17 @@
+{
+    "name": "repositorio_prueba",
+    "version": "1.0.0",
+    "description": "Jin",
+    "main": "jin.js",
+    "scripts": {
+        "start": "live-server --open=jin.html --port=8080"
+    },
+    "author": "Mjeannie",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    },
+    "dependencies": {
+        "sweetalert2": "^11.11.1"
+    }
+}
